@@ -1,2 +1,2 @@
 # Peixaria
-Projeto simples para a disciplina de POO em Java/Swing. 
+Projeto simples para a disciplina de Análise e Projetos de Sistemas em Java/Swing. 
